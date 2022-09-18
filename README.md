@@ -30,4 +30,6 @@ https://user-images.githubusercontent.com/95141272/190879899-3dd37a4e-f022-4db6-
 >### Tela de reprodução das músicas com zoom reduzido
 ![telamusica](https://user-images.githubusercontent.com/95141272/190880241-4ad0a29f-e68c-4155-a73d-4a8192a3042e.JPG)
 
+>### Acesso ao site abaixo:
+https://jaovictor3.github.io/Projeto-Playlist/
 
