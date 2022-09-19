@@ -20,6 +20,8 @@ https://user-images.githubusercontent.com/95141272/190879899-3dd37a4e-f022-4db6-
 
 >## Atualizações que serão feitas
 - Adicionar JavaScript
+- Deixar Responsivo 
+
 
 <br>
 
